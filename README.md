@@ -6,11 +6,18 @@ I'm passionate about technology, open source, and building impactful solutions. 
 ---
 
 ## 🚀 About Me
-- 💼 Software Engineer | Problem Solver | Lifelong Learner
-- 🧑‍💻 Experienced in **Python**, **JavaScript**, **TypeScript**, and **Cloud Technologies**
-- 🎯 Interested in **AI/ML**, **DevOps**, and **Web Development**
-- 🌱 Currently learning: **Rust** and **Kubernetes**
-- 📚 I believe that continuous learning fuels innovation
+
+I'm a software engineer and aspiring AI researcher driven by a desire to build intelligent systems that address real-world challenges. My open-source work spans automation bots, time-series forecasting, and experimental deep learning architectures blending residual networks, attention mechanisms, and mixture-of-experts models. Through technical blogging and community engagement, I strive to make advanced AI concepts accessible. I am actively preparing a research portfolio for a direct Ph.D. in Artificial Intelligence at a top university where I hope to contribute to cutting-edge research on full scholarship support.
+
+### Research & Technical Interests
+- Representation learning, sequence modeling, and time-series forecasting
+- Scalable MLOps, model interpretability, and human-centered AI
+- Ongoing exploration of **Rust** and **Kubernetes** for high-performance, cloud-native development
+
+### Skills
+- **Python**, **TensorFlow**, **PyTorch**, **TypeScript**, and cloud platforms
+- Designing data pipelines, model evaluation, and deployment automation
+- Strong foundation in algorithms, software architecture, and collaborative development
 
 ---
 

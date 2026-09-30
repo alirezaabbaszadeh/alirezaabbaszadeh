@@ -1,133 +1,83 @@
-# 👋 Hi, I'm Alireza Abbaszadeh
+<div align="center">
 
-Welcome to my GitHub profile!
-I'm passionate about technology, open source, and building impactful solutions. Here you'll find a showcase of my projects, collaborations, and contributions.
+# Alireza Abbaszadeh
+### AI & Machine Learning Researcher | Ph.D. Aspirant
+**State-Space Models (SSM) • Operations Research & UAV Routing • Bio-Signal AI • Quantitative ML**
 
----
-
-## 🚀 About Me
-
-I'm a software engineer and aspiring AI researcher driven by a desire to build intelligent systems that address real-world challenges. My open-source work spans automation bots, time-series forecasting, and experimental deep learning architectures blending residual networks, attention mechanisms, and mixture-of-experts models. Through technical blogging and community engagement, I strive to make advanced AI concepts accessible. I am actively preparing a research portfolio for a direct Ph.D. in Artificial Intelligence at a top university where I hope to contribute to cutting-edge research on full scholarship support.
-
-### Research & Technical Interests
-- Representation learning, sequence modeling, and time-series forecasting
-- Scalable MLOps, model interpretability, and human-centered AI
-- Ongoing exploration of **Rust** and **Kubernetes** for high-performance, cloud-native development
-
-### Skills
-- **Python**, **TensorFlow**, **PyTorch**, **TypeScript**, and cloud platforms
-- Designing data pipelines, model evaluation, and deployment automation
-- Strong foundation in algorithms, software architecture, and collaborative development
+[![Website](https://img.shields.io/badge/Portfolio-aiali.ir-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://aiali.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza_Abbaszadeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezaabbaszadeh)
+[![Email Academic](https://img.shields.io/badge/Email-Academic-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.abbaszadeh8558@iau.ir)
+[![Email Primary](https://img.shields.io/badge/Email-Primary-EA4335?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:abbaszadeh79@gmail.com)
 
 ---
 
-## 🛠️ Projects
+</div>
 
-### Bots & Automation
-- **Acc-Seller-Bot-Claude-Flare** – Cloudflare Workers Telegram bot for account sales with manual approval and 2FA codes.  
-  Tech: TypeScript, Cloudflare Workers  
-  [Repo](https://github.com/alirezaabbaszadeh/Acc-Seller-Bot-Claude-Flare)
-- **Account-Seller-Bot** – Python Telegram bot for selling accounts with multilingual menus and admin tools.  
-  Tech: Python, Telegram Bot API  
-  [Repo](https://github.com/alirezaabbaszadeh/Account-Seller-Bot)
-- **accounts-Automator** – Automation scripts for selling products through Telegram bots.  
-  Tech: Python  
-  [Repo](https://github.com/alirezaabbaszadeh/accounts-Automator)
-- **pvAccSellerBot** – TypeScript implementation of a private account seller bot.  
-  Tech: TypeScript  
-  [Repo](https://github.com/alirezaabbaszadeh/pvAccSellerBot)
+## 🔬 About Me
 
-### Machine Learning & AI
-- **California-Housing-Price-Prediction-using-Neural-Networks** – Predicts California housing prices with TensorFlow/Keras, featuring preprocessing and extensive evaluation metrics.  
-  Tech: Python, TensorFlow, Keras  
-  [Repo](https://github.com/alirezaabbaszadeh/California-Housing-Price-Prediction-using-Neural-Networks)
-- **ComprehensiveDeepLearningFramework-17** – Deep learning framework blending residual blocks, multi-head attention, convolutional layers, Bi-LSTM, mixture-of-experts, and dense layers.  
-  Tech: Python  
-  [Repo](https://github.com/alirezaabbaszadeh/ComprehensiveDeepLearningFramework-17)
-- **iccke25-forex-hybrid** – Hybrid architecture with residual attention and mixture-of-experts for hour-ahead Forex forecasting.  
-  Tech: Python, Deep Learning  
-  [Repo](https://github.com/alirezaabbaszadeh/iccke25-forex-hybrid)
-- **KNN-recommendation-System** – PySpark collaborative filtering system generating personalized movie recommendations from user ratings.  
-  Tech: Python, PySpark  
-  [Repo](https://github.com/alirezaabbaszadeh/KNN-recommendation-System)
-- **Time-Series-Model** – Collection of Python models for time series forecasting.  
-  Tech: Python  
-  [Repo](https://github.com/alirezaabbaszadeh/Time-Series-Model)
-- **IEEE** – Research collection of deep learning models for time series data.  
-  Tech: Python  
-  [Repo](https://github.com/alirezaabbaszadeh/IEEE)
+I am a computer engineering researcher and software engineer specializing in **representation learning**, **discrete & continuous sequence modeling**, and **combinatorial optimization**. My core research centers on developing mathematically grounded, computationally reproducible machine learning pipelines.
 
-### Algorithms & Optimization
-- **Hybrid-WOA-HEFT** – Implementation combining Whale Optimization Algorithm with HEFT scheduling.  
-  Tech: Python  
-  [Repo](https://github.com/alirezaabbaszadeh/Hybrid-WOA-HEFT)
-
-### Other Projects
-- **badsaba** – Python project named “ferdosi.”  
-  Tech: Python  
-  [Repo](https://github.com/alirezaabbaszadeh/badsaba)
-- **Verify-ownership** – HTML page to verify GitHub profile ownership.  
-  Tech: HTML  
-  [Repo](https://github.com/alirezaabbaszadeh/Verify-ownership)
-- **alireza** – Miscellaneous personal scripts and experiments.  
-  [Repo](https://github.com/alirezaabbaszadeh/alireza)
-
-_Check out more in the pinned repositories below!_
+Currently, I am preparing for a **direct Ph.D. in Computer Science / Artificial Intelligence**, focusing on:
+- **Continuous-Time Sequence Models:** Investigating optimizer-induced discretization drift and stability constraints in Selective State-Space Models (SSMs / Mamba).
+- **Operations Research & Combinatorial Routing:** Formulating exact and metaheuristic solvers (OR-Tools, HiGHS MIP, PyVRP) for mission-critical multi-UAV routing under stochastic risk and time windows (*Transportation Research Part E*).
+- **Biomedical AI & Signal Analytics:** Designing Conformer and wavelet/contourlet architectures for multi-lead ECG classification and validity-aware image data hiding (*Elsevier JVCIR*).
+- **Quantitative & Stochastic Machine Learning:** Developing GPU-accelerated reinforcement learning architectures combined with path signature theory and lead–lag effects.
 
 ---
 
-## 📊 GitHub Stats
+## 🏛️ Selected Research & Reproducibility Artifacts
+
+| Project / Manuscript | Focus Area | Target / Venue | Code & Artifact |
+| :--- | :--- | :--- | :---: |
+| **Delta Trust-Region SSM** | Selective State-Space Models (Mamba), Discretization Drift | Research Benchmark | [![Repo](https://img.shields.io/badge/Code-delta--trust--region--ssm-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/delta-trust-region-ssm) |
+| **Multi-UAV Routing under Risk** | Operations Research, Vehicle Routing, HiGHS MIP & OR-Tools | *Transportation Research Part E* (TR-E) | [![Repo](https://img.shields.io/badge/Code-uav--tr--e--journal--repro-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/uav-tr-e-journal-repro) |
+| **Contourlet Image Data Hiding** | Adaptive Allocation, Validity-Aware Steganography | *Elsevier JVCIR* | [![Repo](https://img.shields.io/badge/Code-contourlet--steganography-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/contourlet-steganography-repro) |
+| **Morlet CNN-Conformer ECG** | 5-Class Beat Classification, Record-Level Evaluation | MIT-BIH Arrhythmia / *JOE* | [![Repo](https://img.shields.io/badge/Code-ECG__Heartbeat__Classification-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/ECG_Heartbeat_Classification) |
+| **Reactor v3 Lead-Lag Platform** | GPU-First RL, Rough Path Signatures, Quantitative Trading | Research Stack | [![Repo](https://img.shields.io/badge/Code-RL--lookback--LeadLag-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/RL-lookback-LeadLag-signature) |
+| **Parkinson's Disease Detection** | Heuristic HLCA Feature Extraction + GRU Recurrent Models | Biomedical AI | [![Repo](https://img.shields.io/badge/Code-Parkinson's--Detection-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/model-for-Parkinson-s-disease-detection) |
+| **Residual Attention & MoE Forecasting** | Mixture-of-Experts, Forex High-Frequency Modeling | *IEEE ICCKE* | [![Repo](https://img.shields.io/badge/Code-iccke25--forex--hybrid-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/iccke25-forex-hybrid) |
+
+---
+
+## 🛠️ Technical Stack & Tooling
+
+<div align="center">
+
+| Domain | Technologies & Libraries |
+| :--- | :--- |
+| **Languages** | `Python` `C++` `TypeScript` `LaTeX` `SQL` `Bash` |
+| **Machine Learning & Deep Learning** | `PyTorch` `TensorFlow` `Keras` `Hydra` `Scikit-Learn` `NumPy` `SciPy` `Pandas` |
+| **Operations Research & Solvers** | `Google OR-Tools` `HiGHS (MIP)` `PyVRP` `NetworkX` |
+| **Signal & Image Processing** | `PyWavelets` `OpenCV` `Matplotlib` `Seaborn` `PhysioNet WFDB` |
+| **Systems, Cloud & MLOps** | `Git` `Docker` `Linux / WSL2` `Cloudflare Workers` `WandB` `GitHub Actions` |
+
+</div>
+
+---
+
+## 📊 GitHub Activity & Insights
+
+<div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezaabbaszadeh&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alirezaabbaszadeh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaabbaszadeh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezaabbaszadeh&theme=radical" alt="GitHub streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaabbaszadeh&layout=compact&theme=radical" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezaabbaszadeh&theme=radical" alt="Profile details" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezaabbaszadeh&theme=radical" alt="Contribution graph" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirezaabbaszadeh&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alirezaabbaszadeh&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
+
+</div>
 
 ---
 
-## 🌟 Highlights
-- 🏆 **Open Source Contributor**
-- ✍️ **Technical Blogger** ([Medium](https://medium.com/@alirezaabbaszadeh))
-- 🎤 **Community Speaker** on cloud and AI topics
-- 🤝 Always open to collaboration and feedback
+## 📬 Contact & Academic Collaboration
 
----
+I am always keen to discuss research collaborations, reproducibility standards, and upcoming opportunities in academic labs.
 
-## 📫 How to Reach Me
-- Email: [alireza.abbaszadeh@example.com](mailto:alireza.abbaszadeh@example.com)
-- LinkedIn: [alirezaabbaszadeh](https://linkedin.com/in/alirezaabbaszadeh)
-- Twitter/X: [@abbaszadeh_dev](https://twitter.com/abbaszadeh_dev)
+- 🌐 **Personal Academic Portfolio:** [aiali.ir](https://aiali.ir)
+- 🎓 **Academic Email:** [alireza.abbaszadeh8558@iau.ir](mailto:alireza.abbaszadeh8558@iau.ir)
+- 📬 **Primary Email:** [abbaszadeh79@gmail.com](mailto:abbaszadeh79@gmail.com)
+- 💼 **LinkedIn:** [/in/alirezaabbaszadeh](https://linkedin.com/in/alirezaabbaszadeh)
+- 📍 **Location:** Mashhad, Iran
 
----
-
-## 🧭 Goals for 2025
-- 🚀 Launch a new open source library
-- 📚 Complete a deep learning certification
-- 📝 Write 10+ technical articles
-- 🌍 Contribute to global tech communities
-
----
-
-## 🤝 Let's Connect!
-If you have an interesting project, idea, or just want to chat, feel free to reach out!
-
----
-
-_Thanks for visiting my profile! ⭐️_
+<div align="center">
+<sub>Designed with care for reproducible science & open research.</sub>
+</div>

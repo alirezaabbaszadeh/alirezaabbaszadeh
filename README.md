@@ -21,7 +21,8 @@ Currently, I am preparing for a **direct Ph.D. in Computer Science / Artificial 
 - **Continuous-Time Sequence Models:** Investigating optimizer-induced discretization drift and stability constraints in Selective State-Space Models (SSMs / Mamba).
 - **Operations Research & Combinatorial Routing:** Formulating exact and metaheuristic solvers (OR-Tools, HiGHS MIP, PyVRP) for mission-critical multi-UAV routing under stochastic risk and time windows (*Transportation Research Part E*).
 - **Biomedical AI & Signal Analytics:** Designing Conformer and wavelet/contourlet architectures for multi-lead ECG classification and validity-aware image data hiding (*Elsevier JVCIR*).
-- **Quantitative & Stochastic Machine Learning:** Developing GPU-accelerated reinforcement learning architectures combined with path signature theory and lead–lag effects.
+- **Quantitative & Stochastic Machine Learning:** Developing GPU-accelerated reinforcement learning architectures combined with path signature theory, rough paths, and lead–lag effects.
+- **Aerial Robotics & Embodied AI:** Simulating high-throughput reinforcement learning environments with NVIDIA Isaac Gym and Aerial Gym.
 
 ---
 
@@ -34,8 +35,8 @@ Currently, I am preparing for a **direct Ph.D. in Computer Science / Artificial 
 | **Contourlet Image Data Hiding** | Adaptive Allocation, Validity-Aware Steganography | *Elsevier JVCIR* | [![Repo](https://img.shields.io/badge/Code-contourlet--steganography-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/contourlet-steganography-repro) |
 | **Morlet CNN-Conformer ECG** | 5-Class Beat Classification, Record-Level Evaluation | MIT-BIH Arrhythmia / *JOE* | [![Repo](https://img.shields.io/badge/Code-ECG__Heartbeat__Classification-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/ECG_Heartbeat_Classification) |
 | **Reactor v3 Lead-Lag Platform** | GPU-First RL, Rough Path Signatures, Quantitative Trading | Research Stack | [![Repo](https://img.shields.io/badge/Code-RL--lookback--LeadLag-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/RL-lookback-LeadLag-signature) |
-| **Parkinson's Disease Detection** | Heuristic HLCA Feature Extraction + GRU Recurrent Models | Biomedical AI | [![Repo](https://img.shields.io/badge/Code-Parkinson's--Detection-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/model-for-Parkinson-s-disease-detection) |
 | **Residual Attention & MoE Forecasting** | Mixture-of-Experts, Forex High-Frequency Modeling | *IEEE ICCKE* | [![Repo](https://img.shields.io/badge/Code-iccke25--forex--hybrid-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/iccke25-forex-hybrid) |
+| **Comprehensive Deep Learning Framework** | ResNet, Multi-Head Attention, Bi-LSTM & MoE Modular Architecture | Open Source Framework | [![Repo](https://img.shields.io/badge/Code-ComprehensiveDL--17-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/ComprehensiveDeepLearningFramework-17) |
 
 ---
 
@@ -47,6 +48,7 @@ Currently, I am preparing for a **direct Ph.D. in Computer Science / Artificial 
 | :--- | :--- |
 | **Languages** | `Python` `C++` `TypeScript` `LaTeX` `SQL` `Bash` |
 | **Machine Learning & Deep Learning** | `PyTorch` `TensorFlow` `Keras` `Hydra` `Scikit-Learn` `NumPy` `SciPy` `Pandas` |
+| **Robotics & Simulation** | `NVIDIA Isaac Gym` `Aerial Gym` `ROS / WSL2` |
 | **Operations Research & Solvers** | `Google OR-Tools` `HiGHS (MIP)` `PyVRP` `NetworkX` |
 | **Signal & Image Processing** | `PyWavelets` `OpenCV` `Matplotlib` `Seaborn` `PhysioNet WFDB` |
 | **Systems, Cloud & MLOps** | `Git` `Docker` `Linux / WSL2` `Cloudflare Workers` `WandB` `GitHub Actions` |

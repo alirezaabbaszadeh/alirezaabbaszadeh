@@ -9,8 +9,9 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-aiali.ir-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://aiali.ir)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--8253--6042-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8253-6042)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza_Abbaszadeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezaabbaszadeh)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Alireza_Abbaszadeh-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Alireza-Abbaszadeh)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Alireza_Abbaszadeh-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza_Abbaszadeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezaabbaszadeh)
 [![Email Academic](https://img.shields.io/badge/Email-Academic-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.abbaszadeh8558@iau.ir)
 [![Email Primary](https://img.shields.io/badge/Email-Primary-EA4335?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:abbaszadeh79@gmail.com)
 
@@ -77,10 +78,12 @@ Currently, I am preparing for a **direct Ph.D. in Computer Science / Artificial 
 I am open to discussions on doctoral research positions, academic collaborations, and high-impact machine learning engineering:
 
 - **Personal Academic Portfolio:** [aiali.ir](https://aiali.ir)
+- **ResearchGate:** [Alireza Abbaszadeh](https://www.researchgate.net/profile/Alireza-Abbaszadeh)
+- **Google Scholar:** [Alireza Abbaszadeh](https://scholar.google.com)
+- **ORCID:** [0009-0007-8253-6042](https://orcid.org/0009-0007-8253-6042)
+- **LinkedIn:** [linkedin.com/in/alirezaabbaszadeh](https://linkedin.com/in/alirezaabbaszadeh)
 - **Academic Email:** [alireza.abbaszadeh8558@iau.ir](mailto:alireza.abbaszadeh8558@iau.ir)
 - **Primary Email:** [abbaszadeh79@gmail.com](mailto:abbaszadeh79@gmail.com)
-- **LinkedIn:** [linkedin.com/in/alirezaabbaszadeh](https://linkedin.com/in/alirezaabbaszadeh)
-- **ORCID:** [0009-0007-8253-6042](https://orcid.org/0009-0007-8253-6042)
 - **Location:** Mashhad, Iran
 
 <br>
@@ -95,6 +98,7 @@ I am open to discussions on doctoral research positions, academic collaborations
   <span itemprop="jobTitle">Artificial Intelligence Researcher & Systems Engineer</span>
   <a itemprop="url" href="https://aiali.ir">Academic Website</a>
   <a itemprop="sameAs" href="https://orcid.org/0009-0007-8253-6042">ORCID</a>
+  <a itemprop="sameAs" href="https://www.researchgate.net/profile/Alireza-Abbaszadeh">ResearchGate</a>
   <a itemprop="sameAs" href="https://linkedin.com/in/alirezaabbaszadeh">LinkedIn</a>
   <a itemprop="sameAs" href="https://github.com/alirezaabbaszadeh">GitHub</a>
 </div>

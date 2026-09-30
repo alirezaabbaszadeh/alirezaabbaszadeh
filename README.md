@@ -22,21 +22,22 @@ Currently, I am preparing for a **direct Ph.D. in Computer Science / Artificial 
 - **Operations Research & Combinatorial Routing:** Formulating exact and metaheuristic solvers (OR-Tools, HiGHS MIP, PyVRP) for mission-critical multi-UAV routing under stochastic risk and time windows (*Transportation Research Part E*).
 - **Biomedical AI & Signal Analytics:** Designing Conformer and wavelet/contourlet architectures for multi-lead ECG classification and validity-aware image data hiding (*Elsevier JVCIR*).
 - **Quantitative & Stochastic Machine Learning:** Developing GPU-accelerated reinforcement learning architectures combined with path signature theory, rough paths, and lead–lag effects.
+- **High-Performance Distributed Systems:** Architecting distributed in-memory pipelines (Apache Spark) achieving up to 3000x acceleration over iterative baselines.
 - **Aerial Robotics & Embodied AI:** Simulating high-throughput reinforcement learning environments with NVIDIA Isaac Gym and Aerial Gym.
 
 ---
 
 ## 🏛️ Selected Research & Reproducibility Artifacts
 
-| Project / Manuscript | Focus Area | Target / Venue | Code & Artifact |
+| Project / Manuscript | Focus Area | Target / Milestone | Code & Artifact |
 | :--- | :--- | :--- | :---: |
 | **Delta Trust-Region SSM** | Selective State-Space Models (Mamba), Discretization Drift | Research Benchmark | [![Repo](https://img.shields.io/badge/Code-delta--trust--region--ssm-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/delta-trust-region-ssm) |
 | **Multi-UAV Routing under Risk** | Operations Research, Vehicle Routing, HiGHS MIP & OR-Tools | *Transportation Research Part E* (TR-E) | [![Repo](https://img.shields.io/badge/Code-uav--tr--e--journal--repro-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/uav-tr-e-journal-repro) |
 | **Contourlet Image Data Hiding** | Adaptive Allocation, Validity-Aware Steganography | *Elsevier JVCIR* | [![Repo](https://img.shields.io/badge/Code-contourlet--steganography-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/contourlet-steganography-repro) |
-| **Morlet CNN-Conformer ECG** | 5-Class Beat Classification, Record-Level Evaluation | MIT-BIH Arrhythmia / *JOE* | [![Repo](https://img.shields.io/badge/Code-ECG__Heartbeat__Classification-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/ECG_Heartbeat_Classification) |
+| **Morlet CNN-Conformer ECG** | 5-Class Beat Classification, Record-Level Evaluation | Submitted Manuscript | [![Repo](https://img.shields.io/badge/Code-ECG__Heartbeat__Classification-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/ECG_Heartbeat_Classification) |
 | **Reactor v3 Lead-Lag Platform** | GPU-First RL, Rough Path Signatures, Quantitative Trading | Research Stack | [![Repo](https://img.shields.io/badge/Code-RL--lookback--LeadLag-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/RL-lookback-LeadLag-signature) |
 | **Residual Attention & MoE Forecasting** | Mixture-of-Experts, Forex High-Frequency Modeling | *IEEE ICCKE* | [![Repo](https://img.shields.io/badge/Code-iccke25--forex--hybrid-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/iccke25-forex-hybrid) |
-| **Comprehensive Deep Learning Framework** | ResNet, Multi-Head Attention, Bi-LSTM & MoE Modular Architecture | Open Source Framework | [![Repo](https://img.shields.io/badge/Code-ComprehensiveDL--17-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/ComprehensiveDeepLearningFramework-17) |
+| **3000x Spark Recommendation Engine** | Distributed Collaborative Filtering, In-Memory Acceleration | B.Sc. Capstone Thesis *(Rank #1)* | [![Repo](https://img.shields.io/badge/Code-KNN--Spark--3000x-181717?style=flat&logo=github)](https://github.com/alirezaabbaszadeh/KNN-recommendation-System) |
 
 ---
 
@@ -48,6 +49,7 @@ Currently, I am preparing for a **direct Ph.D. in Computer Science / Artificial 
 | :--- | :--- |
 | **Languages** | `Python` `C++` `TypeScript` `LaTeX` `SQL` `Bash` |
 | **Machine Learning & Deep Learning** | `PyTorch` `TensorFlow` `Keras` `Hydra` `Scikit-Learn` `NumPy` `SciPy` `Pandas` |
+| **Distributed Computing & Big Data** | `Apache Spark (PySpark)` `RDDs` `In-Memory Distributed Computing` |
 | **Robotics & Simulation** | `NVIDIA Isaac Gym` `Aerial Gym` `ROS / WSL2` |
 | **Operations Research & Solvers** | `Google OR-Tools` `HiGHS (MIP)` `PyVRP` `NetworkX` |
 | **Signal & Image Processing** | `PyWavelets` `OpenCV` `Matplotlib` `Seaborn` `PhysioNet WFDB` |

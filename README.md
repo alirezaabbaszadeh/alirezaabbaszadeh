@@ -8,6 +8,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/Portfolio-aiali.ir-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://aiali.ir)
+[![Teaching](https://img.shields.io/badge/Teaching-aiali.ir%2Fteaching-10b981?style=for-the-badge&logo=googlescholar&logoColor=white)](https://aiali.ir/teaching)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--8253--6042-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8253-6042)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Alireza_Abbaszadeh-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Alireza-Abbaszadeh)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Alireza_Abbaszadeh-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com)
@@ -29,6 +30,7 @@ Currently, I am preparing for a **direct Ph.D. in Computer Science / Artificial 
 - **Biomedical AI & Signal Analytics:** Designing Conformer and wavelet/contourlet architectures for multi-lead ECG classification (submitted to Portuguese journal) and validity-aware image data hiding (*Elsevier JVCIR*).
 - **Quantitative & Stochastic Machine Learning:** Developing GPU-accelerated reinforcement learning architectures combined with path signature theory, rough paths, and lead–lag effects.
 - **High-Performance Distributed Systems:** Architecting distributed in-memory pipelines (Apache Spark) achieving up to 3000x acceleration over iterative baselines (B.Sc. Capstone Thesis, Valedictorian Rank #1).
+- **Academic Instruction & Governance:** Serving as Teaching Assistant across Artificial Intelligence, Soft Computing, Relational Databases, and Computer Networks; details at [aiali.ir/teaching](https://aiali.ir/teaching).
 - **Aerial Robotics & Embodied AI:** Simulating high-throughput reinforcement learning environments with NVIDIA Isaac Gym and Aerial Gym.
 
 ---
@@ -92,11 +94,16 @@ I am open to discussions on doctoral research positions, academic collaborations
   <sub>Crafted for reproducible science and high-performance machine learning research.</sub>
 </div>
 
-<!-- SEO Knowledge Graph Entity Anchor -->
+<!-- SEO Knowledge Graph Entity Anchor & GEO Ingestion Grounding -->
 <div itemscope itemtype="https://schema.org/Person" style="display:none;">
   <span itemprop="name">Alireza Abbaszadeh</span>
+  <span itemprop="alternateName">AiAli</span>
+  <span itemprop="alternateName">Dr. AI Ali</span>
   <span itemprop="jobTitle">Artificial Intelligence Researcher & Systems Engineer</span>
   <a itemprop="url" href="https://aiali.ir">Academic Website</a>
+  <a itemprop="url" href="https://aiali.ir/teaching">Teaching & Academic Governance</a>
+  <a itemprop="url" href="https://aiali.ir/publications">Research Publications</a>
+  <a itemprop="url" href="https://aiali.ir/network">Research Network & Ecosystem</a>
   <a itemprop="sameAs" href="https://orcid.org/0009-0007-8253-6042">ORCID</a>
   <a itemprop="sameAs" href="https://www.researchgate.net/profile/Alireza-Abbaszadeh">ResearchGate</a>
   <a itemprop="sameAs" href="https://linkedin.com/in/alirezaabbaszadeh">LinkedIn</a>
